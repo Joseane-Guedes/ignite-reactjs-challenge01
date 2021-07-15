@@ -10,7 +10,7 @@
 
 # :books: About
 
-This application is the first challenge from the [Ignite Bootcamp](https://rocketseat.com.br/ignite). The objetive is to develop the CRUD functions of this app.
+This application is the first challenge from the [Ignite Bootcamp](https://rocketseat.com.br/ignite). This project has the objective to develop the CRUD functions of this app.
 
 # :art: Layout
 
