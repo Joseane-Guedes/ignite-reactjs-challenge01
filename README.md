@@ -1,13 +1,24 @@
-<h1 align="center"> Rocketseat </h1> 
+<h1 align="center">  <img src="./.github/Ignite.png" width="800px" alt="Home page"> </h1> 
+
 
 <h1 align="center">
-ToDo
-</h1>
+    <a href="https://pt-br.reactjs.org/">  ⚛️  ReactJS   </a>
+</h1> 
 
+<h2 align="center">🚀 Challenge 01: ReactJS Concepts </h2>
+
+<hr/>
 
 # :books: About
-[Ignite Bootcamp](https://rocketseat.com.br/ignite)
-- Challenge number 1: This project has the objective to develop the CRUD functions of this app.
+
+<p> This project's main objective is to build a small application of a to-do list and training a little more about state manipulation in React. </p>
+
+
+# :wrench: Application features
+
+* Add a new task: It must be possible to add a new task in the task state with the fields id which must be generated randomly, a title which must be text and isComplete which must start as false.
+* Remove a task: You must receive an ID by parameter and remove the task that contains that ID from the state.
+* Mark and unmark a task as completed: You must change the status of isComplete for a task with a specific ID that is received by parameter.
 
 # :art: Layout
 
@@ -17,7 +28,7 @@ ToDo
   </p>
 </div>
 
-### :hammer: Tecnologies
+# :hammer: Tecnologies
 
 - React.js
 - Typescript
