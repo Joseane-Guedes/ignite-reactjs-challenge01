@@ -1,16 +1,11 @@
-# Rocketseat :rocket: 
-
-
-<p align="center">
-  <img src="./public/logo.svg" alt="Image of the ignite-todolist-challenge application" width="300px">
-</p>
+<h1 align="center"> Rocketseat </h1> 
 
 
 
 
 # :books: About
-
-This application is the first challenge from the [Ignite Bootcamp](https://rocketseat.com.br/ignite). This project has the objective to develop the CRUD functions of this app.
+[Ignite Bootcamp](https://rocketseat.com.br/ignite)
+- Challenge number 1: This project has the objective to develop the CRUD functions of this app.
 
 # :art: Layout
 
