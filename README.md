@@ -5,9 +5,6 @@
     <a href="https://pt-br.reactjs.org/">  ⚛️  ReactJS   </a>
 </h1> 
 
-<h2 align="center">🚀 Challenge 01: ReactJS Concepts </h2>
-
-<hr/>
 
 # :books: About
 
@@ -37,14 +34,11 @@
 
 # 🔧 How to run
 
-- Download this project to your computer or use the git command `git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge01.git`
-
-- Run `$ yarn install` to install the project's modules
-
-### Webpage
-
-- Open the folder ignite-reactjs-challenge01 in your system's shell
+- Clone this repository:  ` git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge01.git`
+- cd `$ ignite-reactjs-challenge01`
+- Run `$ yarn`
 - Run `$ yarn dev`
+
 
 # :closed_book: License
 
