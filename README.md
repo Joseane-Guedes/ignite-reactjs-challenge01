@@ -34,7 +34,7 @@
 
 # 🔧 How to run
 
-- Clone repository: $ git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge01.git
+- $ git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge01.git
 - $ cd ignite-reactjs-challenge01
 - Run $ yarn
 - Run $ yarn dev 
