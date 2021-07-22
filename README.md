@@ -32,12 +32,32 @@
 - SCSS
 - HTML
 
-# 🔧 How to run
+# 🔧 Run Locally
 
-- $ git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge01.git
-- $ cd ignite-reactjs-challenge01
-- Run $ yarn install
-- Run $ yarn dev 
+Clone the project
+
+```bash
+  git clone git@github.com:Joseane-Guedes/ignite-reactjs-challenge01.git
+```
+
+Go to the project directory
+
+```bash
+  cd ignite-reactjs-challenge01
+```
+
+Install dependencies
+
+```bash
+  yarn install
+```
+
+Start the server
+
+```bash
+  yarn dev 
+```
+
 
 # :closed_book: License
 
