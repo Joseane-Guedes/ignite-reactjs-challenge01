@@ -1,8 +1,8 @@
-<h1 align="center">  <img src="./.github/Ignite.png" width="800px" alt="Home page"> </h1> 
+<h1 align="center">  <img src="./.github/Ignite.png" width="1000px" alt="Home page"> </h1> 
 
 
 <h1 align="center">
-    <a href="https://pt-br.reactjs.org/">  ⚛️  ReactJS   </a>
+     ✔️ ToDo List
 </h1> 
 
 
@@ -29,8 +29,9 @@
 
 - React.js
 - Typescript
+- Yarn
 - SCSS
-- HTML
+- Webpack
 
 # 🔧 Run Locally
 
